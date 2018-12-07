@@ -4,7 +4,7 @@ banner: Love God<br>Love Your Neighbor<br>Make Disciples
 title: Home
 ---
 
-### News
+# News
 
 **Christmas services**
 
